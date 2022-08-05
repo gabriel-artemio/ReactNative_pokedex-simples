@@ -1,4 +1,4 @@
-# Aplicativo de uma Pokedex simples - React Native
+# Pokedex simples - React Native
 
 ✔️ Tenha uma pokedex com os pokemóns da primera geração em React Native <br>
 
